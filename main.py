@@ -171,7 +171,7 @@ async def cancel(update: Update, context) -> int:
 
 def main() -> None:
    
-    TOKEN = "7710858537:AAGDi5cHnb16e1h7caqLgWy3mifjr3_3DA8" 
+    TOKEN = "PUT YOUR TOKNE HERE" 
     application = Application.builder().token(TOKEN).build()
 
     conv_handler = ConversationHandler(
