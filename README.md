@@ -18,7 +18,7 @@ Powered by **CoinGecko API** (no key required) and built with **python-telegram-
 ![Bot in action](video.MP4)  
 *Short demo video of the bot working in Telegram*
 
-![Preview](screen.jph)  
+![Preview](screen.jpg)  
  
 
 ### How to Run Locally
