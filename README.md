@@ -15,10 +15,10 @@ Powered by **CoinGecko API** (no key required) and built with **python-telegram-
 
 ### Demo
 
-![Bot in action]()  
+![Bot in action](video.MP4)  
 *Short demo video of the bot working in Telegram*
 
-![Preview]()  
+![Preview](screen.jph)  
  
 
 ### How to Run Locally
