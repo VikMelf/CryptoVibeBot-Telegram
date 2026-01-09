@@ -1,4 +1,4 @@
-# CryptoPulse Bot 🚀
+# CryptoVibe Bot 🚀
 
 A fast and fun Telegram bot that delivers real-time prices, 1-hour changes, market cap, volume, and more for the top cryptocurrencies. Supports English and Ukrainian languages!
 
